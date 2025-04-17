@@ -1,0 +1,18 @@
+Step 1 :- Go to api file and open main.py. Make sure you have downloaded all the libraries before running the program.
+	  All the libraries are mentioned below:-
+
+	  tensorflow
+	  fastapi
+	  uvicorn
+	  python-multipart
+	  pillow
+	  matplotlib
+	  numpy
+
+	  Now click on run button and make sure that server is open on local IP address like http://localhost:8000 or similar.
+
+Step 2 :- Install Node.js in your system from the given link below:-
+	  https://nodejs.org/en/download
+
+Step 3 :- Open the command palette of the frontend file and write 'npm run start'. The website will be open and you can put image from
+	  PlantVillage file and see the result.  
