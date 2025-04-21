@@ -60,5 +60,13 @@ The system includes:
 - Node.js
 - HTML / CSS / JavaScript
 
--------------------------------
+---
+
+## ✅ Conclusion
+
+This project demonstrates the power of deep learning in agriculture by accurately identifying potato leaf diseases through image classification. By combining a robust TensorFlow-based CNN model with a user-friendly web interface and FastAPI backend, this system provides an efficient, real-time tool that can assist farmers, researchers, and agronomists in early disease detection and crop health monitoring.
+
+The modular architecture makes it easy to scale, deploy, and enhance in the future with more disease categories, mobile support, or integration with smart farming platforms.
+
+
 
